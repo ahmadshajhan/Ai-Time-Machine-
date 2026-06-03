@@ -1,0 +1,40 @@
+Date: 2025-01-15
+Person: Ahmad Shajahan
+
+Knowledge Snapshot:
+
+Programming:
+- Learned Python fundamentals.
+- Understood variables, loops, functions, and classes.
+- Built small command-line applications.
+- Started learning NumPy and Pandas.
+
+Artificial Intelligence:
+- Basic understanding of Machine Learning.
+- Learned about supervised and unsupervised learning.
+- Familiar with neural networks conceptually.
+- Has not yet built a complete AI project.
+
+Web Development:
+- Learned HTML, CSS, and JavaScript.
+- Built simple websites.
+- Started learning Django.
+
+Projects:
+- Created a coding school website named Mrcode.
+- Started working on AI-related educational content.
+
+Current Goals:
+- Learn advanced Machine Learning.
+- Build AI-powered educational tools.
+- Improve full-stack development skills.
+
+Confidence Areas:
+- Python programming
+- Basic web development
+
+Areas Still Learning:
+- Deep Learning
+- Large Language Models (LLMs)
+- RAG systems
+- Multi-agent AI systems
